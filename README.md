@@ -169,7 +169,7 @@ For real-world deployment:
 -   ✅ Use IAM Role attached to EC2
 -   ✅ Use RDS instead of SQLite
 -   ✅ Use Nginx reverse proxy
--   ✅ Add SSL (HTTPS)
+-   ✅ Add SSL (HTTPS)  
 -   ✅ Restrict security group access
 
 ------------------------------------------------------------------------
